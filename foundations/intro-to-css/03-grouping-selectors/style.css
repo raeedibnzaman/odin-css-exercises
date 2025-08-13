@@ -1,0 +1,14 @@
+.leftButton,
+.rightButton {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.leftButton {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.rightButton {
+    background-color: #ffff00;
+}
